@@ -1,5 +1,6 @@
 
 # ULA-8-BITS
+*Necessário instalar CEDAR Logic.
 
 1. Apresentação
    
