@@ -1,6 +1,7 @@
 # ULA-8-BITS
 
 1. Apresentação
+   
 O projeto visa desenvolver uma ULA de 8 bits capaz de realizar operações
 aritméticas (como adição e subtração) e lógicas (como AND, OR, NOT e XOR). A
 ULA será utilizada para simular o funcionamento básico de um processador,
@@ -15,6 +16,7 @@ NAND o NOR o NOT o XOR o XNOR o CMP
 Overflow (V) o Negative (N) o Zero (Z).
 
 2. Projeto
+   
 Etapas para o projeto:
 a) Explicar a implementação da Unidade Aritmética:
 A Unidade Aritmética foi implementada utilizando somadores completos (full adders)
